@@ -11,4 +11,4 @@ Run the script and follow the assistant:
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall WireGuard.
 
 ### Donations
-If you want to show your appreciation, you can donate via [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=383VZB54QHW6W). Thanks!
+If you want to show your appreciation, you can donate via [PayPal](https://www.paypal.com/donate/?hosted_button_id=VASPK43FDSCGU). Thanks!
